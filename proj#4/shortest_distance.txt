@@ -1,0 +1,4 @@
+Dijkstra's Shortest Path: 
+Tulkarem<-Salfit<-Ramallah<-Jerusalem<-Hebron   Total Distance:   146KM
+BFS Shortest Path: 
+Tulkarem<-Salfit<-Ramallah<-Jericho<-Hebron   Total Distance:   4
